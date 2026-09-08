@@ -8,7 +8,7 @@
 
 Dieses Repository dient als zentraler Dokumentations- und Präsentationsserver für die aktuellen Forschungsprojekte, Publikationslisten und experimentellen Versuchsanordnungen der **Forschungsgruppe Performative Phänomenologie**.
 
-* **Webpräsenz:** [https://insertmesh.github.io/transdisziplinaere_psychopathologie/](https://insertmesh.github.io/transdisziplinaere_psychopathologie/)
+* **Webpräsenz:** [https://insertmesh.github.io/prof-enslin-krems/](https://insertmesh.github.io/prof-enslin-krems/)
 
 ---
 
